@@ -64,7 +64,7 @@ stls.height({ pass: { arrayValue: [jsvals.varReader({pass: {
         stls.alignItems({ pass: { arrayValue: [jsvals.j8({pass: {
           propertieValues: "center"
         }})] }}), stls.backgroundColor({ pass: { arrayValue: [jsvals.j8({pass: {
-          propertieValues: "#666"
+          propertieValues: "#444b6f"
         }})] }})],
 
             variablePath:[ ],
