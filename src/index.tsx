@@ -79,7 +79,7 @@ stls.height({ pass: { arrayValue: [jsvals.varReader({pass: {
           arrStyles: [
             
         stls.color({ pass: { arrayValue: [jsvals.j8({pass: {
-          propertieValues: "#ff9326"
+          propertieValues: "#fff"
         }})] }}), stls.fontSize({ pass: { arrayValue: [jsvals.j8({pass: {
           propertieValues: "30px"
         }})] }})
